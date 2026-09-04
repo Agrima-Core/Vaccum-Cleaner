@@ -39,7 +39,7 @@ Integrated charging port: Connected to battery terminals for convenient charging
 ## Working Principle
 When powered on, the Arduino initializes all modules. The BLDC motor generates suction while the servo-controlled cleaning brush collects debris. The gear motors enable robot movement, and the UV sensor assists in obstacle detection. The system can operate in semi-autonomous mode and is rechargeable via the integrated charging port.
 ### 2.3 Driving Mechanism
-[▶️Watch the Demo]()
+[▶️Watch the Demo](https://github.com/Agrima-Core/Vaccum-Cleaner/blob/main/Video%20Project%201.mp4)
 ## 5. Advantages
 •	Low-cost and modular design
 •	Efficient suction due to high-speed BLDC motor
