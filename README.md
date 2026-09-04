@@ -30,19 +30,16 @@ Integrated charging port: Connected to battery terminals for convenient charging
 
 ---
 
-## Working Principle
-When powered on, the Arduino initializes all modules. The BLDC motor generates suction while the servo-controlled cleaning brush collects debris. The gear motors enable robot movement, and the UV sensor assists in obstacle detection. The system can operate in semi-autonomous mode and is rechargeable via the integrated charging port.
-
-
 ### Prototype
 <img width="506" height="285" alt="image" src="https://github.com/user-attachments/assets/68d02cd6-e4fc-4a8b-9b1f-079d188da851" />
 
 ### Internal Components
 <img width="294" height="503" alt="image" src="https://github.com/user-attachments/assets/90ac5cc2-d296-45d1-a5f3-6ee14cda65c7" />
 
-
-
-
+## Working Principle
+When powered on, the Arduino initializes all modules. The BLDC motor generates suction while the servo-controlled cleaning brush collects debris. The gear motors enable robot movement, and the UV sensor assists in obstacle detection. The system can operate in semi-autonomous mode and is rechargeable via the integrated charging port.
+### 2.3 Driving Mechanism
+[▶️Watch the Demo]()
 ## 5. Advantages
 •	Low-cost and modular design
 •	Efficient suction due to high-speed BLDC motor
